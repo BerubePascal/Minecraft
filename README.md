@@ -36,7 +36,7 @@ You can just click next at every steps to install it in the default directory
 
 ## 4. Download mods folder
 
-
+<!-- 👉 [Download Mods](./mods.zip) -->
 
 
 
