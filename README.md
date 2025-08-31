@@ -36,14 +36,33 @@ You can just click next at every steps to install it in the default directory
 
 ## 4. Download mods folder
 
-<!-- 👉 [Download Mods](./mods.zip) -->
+👉 [Download Mods.zip](https://github.com/BerubePascal/Minecraft/releases/tag/V1.21.7-1)
 
+---
 
+## 5. Install the mods
+1) Launch Minecraft
 
+    You should see the Noeforge launcher on the main page (See image)
 
-You should see the Noeforge launcher on the main page (See image)
+    ![alt text](bin/images/Minecraft_launcher.png)
 
-![alt text](bin/images/Minecraft_launcher.png)
-
-
+2) Open installations menu and follow the steps on the image
  
+   ![alt text](bin/images/Installation.png)
+
+3) Paste the mods folder in the directory
+
+    If the folder already existe, overwrite it
+
+---
+
+## [Optionnal] 6. Allocate more RAM
+Modded minecraft need a little more RAM then the default value
+
+1) In the installations menu, go to "Edit"
+    ![alt text](bin/images/RAM_1.png)
+
+2) Click on "More options"
+3) In the JVM Arguments, edit the numerical value in *-XmxYYG-* where *YY* is the RAM (here it's set to 16Go) 
+    ![alt text](bin/images/RAM_2.png)
