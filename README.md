@@ -38,7 +38,7 @@ You can accept all default options during installation.
 
 ## 4. Download Mods Folder
 
-👉 [Download Mods.zip](https://github.com/BerubePascal/Minecraft/releases/tag/V1.21.7-2)
+👉 [Download Mods.zip](https://github.com/BerubePascal/Minecraft/releases/tag/V1.21.11)
 
 ---
 
