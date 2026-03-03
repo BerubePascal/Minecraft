@@ -26,8 +26,8 @@ You can accept all default options during installation.
 👉 [Download NeoForge](https://neoforged.net/)
 
 1. **Select the versions:**
-   - **Minecraft**: 1.21.7  
-   - **NeoForge**: 21.7.25-beta  
+   - **Minecraft**: 1.21.11  
+   - **NeoForge**: 21.7.27-beta  
    - Click **"Click here to download installer"**
 2. **Run the installer** (Java from step 2 is required)  
    - Follow the instructions as shown in the image:
